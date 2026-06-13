@@ -522,7 +522,7 @@ The question is whether we will learn to predict what the pandemic does when we 
 
 **License**: CC-BY-4.0 (Creative Commons Attribution 4.0 International)
 
-**Contact**: eric@eri-labs.ai | github.com/ericrenone
+**Contact**:   | github.com/ericrenone
 
 ---
 
